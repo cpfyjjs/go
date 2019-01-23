@@ -1,6 +1,7 @@
 package real
 
 import (
+	"fmt"
 	"net/http"
 	"net/http/httputil"
 	"time"
@@ -24,4 +25,14 @@ func (r Retriever) Get(url string) string{
 		panic(err)
 	}
 	return string(result)
+}
+
+
+
+
+func (r Retriever) Post(url string,data string)string{
+	fmt.Printf(url,data)
+	var str string = "This is an example of string"
+	fmt.Print(str)
+	return "ddd"
 }

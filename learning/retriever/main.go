@@ -22,6 +22,4 @@ func main() {
 	//Type assertion
 	realRetriever := r.(real.Retriever)
 	fmt.Println(realRetriever.TimeOut)
-
-
 }

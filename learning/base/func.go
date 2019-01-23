@@ -12,6 +12,7 @@ func main() {
 
 //函数返回多个值
 func div(a int,b int)(q,r int){
+
 	return a / b,a % b
 }
 
