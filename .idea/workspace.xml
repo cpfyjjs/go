@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac395d-fd6a-4b45-8f93-364aab170ac4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/06method.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/07method_on_time.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/pointer_value.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/09methodset1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/10method3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/10结构与方法/13magic.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning/10结构与方法/05structs_anonymous_fields.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning/10结构与方法/05structs_anonymous_fields.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/10结构与方法/pointer_value.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning/10结构与方法/08pointer_value.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,25 +28,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="39" />
+          <entry key="go" value="44" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="39" />
+          <entry key="Go" value="44" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="3765" />
+          <entry key="go" value="4717" />
           <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="3765" />
+          <entry key="Go" value="4717" />
           <entry key="PLAIN_TEXT" value="68" />
         </counts>
       </usages-collector>
@@ -58,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/retriever/real/real.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning/10结构与方法/01structs_fiels.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,36 +76,6 @@
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/03convert.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/04struct_tag.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/05structs_anonymous_fields.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -139,23 +101,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/pointer_value.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/08pointer_value.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/base/var.go">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/09methodset1.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/10method3.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
               <folding>
-                <element signature="e#14#53#0" expanded="true" />
+                <element signature="e#14#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/12embed_func2.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning/10结构与方法/13magic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -198,6 +196,11 @@
         <option value="$PROJECT_DIR$/learning/10结构与方法/method.go" />
         <option value="$PROJECT_DIR$/learning/10结构与方法/07method_on_time.go" />
         <option value="$PROJECT_DIR$/learning/10结构与方法/pointer_value.go" />
+        <option value="$PROJECT_DIR$/learning/10结构与方法/09methodset1.go" />
+        <option value="$PROJECT_DIR$/learning/10结构与方法/10method3.go" />
+        <option value="$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go" />
+        <option value="$PROJECT_DIR$/learning/10结构与方法/12embed_func2.go" />
+        <option value="$PROJECT_DIR$/learning/10结构与方法/magic.go" />
       </list>
     </option>
   </component>
@@ -261,6 +264,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\go\learning\10结构与方法" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\go\retriever\real" />
       <recent name="D:\go\base" />
@@ -278,61 +284,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build pointer_value.go">
-    <configuration name="go build 04struct_tag.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build magic.go">
+    <configuration name="go build 09methodset1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/10结构与方法/04struct_tag.go" />
+      <filePath value="$PROJECT_DIR$/learning/10结构与方法/09methodset1.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05structs_anonymous_fields.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 10method3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/10结构与方法/05structs_anonymous_fields.go" />
+      <filePath value="$PROJECT_DIR$/learning/10结构与方法/10method3.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 07method_on_time.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 11embed_func1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/10结构与方法/07method_on_time.go" />
+      <filePath value="$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build method.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 12embed_func2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/10结构与方法/method.go" />
+      <filePath value="$PROJECT_DIR$/learning/10结构与方法/12embed_func2.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build pointer_value.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build magic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/10结构与方法/pointer_value.go" />
+      <filePath value="$PROJECT_DIR$/learning/10结构与方法/magic.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 04struct_tag.go" />
-      <item itemvalue="Go Build.go build 05structs_anonymous_fields.go" />
-      <item itemvalue="Go Build.go build method.go" />
-      <item itemvalue="Go Build.go build 07method_on_time.go" />
-      <item itemvalue="Go Build.go build pointer_value.go" />
+      <item itemvalue="Go Build.go build 09methodset1.go" />
+      <item itemvalue="Go Build.go build 10method3.go" />
+      <item itemvalue="Go Build.go build 11embed_func1.go" />
+      <item itemvalue="Go Build.go build 12embed_func2.go" />
+      <item itemvalue="Go Build.go build magic.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build pointer_value.go" />
-        <item itemvalue="Go Build.go build 07method_on_time.go" />
-        <item itemvalue="Go Build.go build method.go" />
-        <item itemvalue="Go Build.go build 05structs_anonymous_fields.go" />
-        <item itemvalue="Go Build.go build 04struct_tag.go" />
+        <item itemvalue="Go Build.go build magic.go" />
+        <item itemvalue="Go Build.go build 12embed_func2.go" />
+        <item itemvalue="Go Build.go build 11embed_func1.go" />
+        <item itemvalue="Go Build.go build 10method3.go" />
+        <item itemvalue="Go Build.go build 09methodset1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -349,8 +355,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973357" visible="true" weight="0.18923241" />
-      <window_info id="Structure" order="1" sideWeight="0.5026643" side_tool="true" visible="true" weight="0.18923241" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74245113" visible="true" weight="0.18923241" />
+      <window_info id="Structure" order="1" sideWeight="0.25754884" side_tool="true" visible="true" weight="0.18923241" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -575,10 +581,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/pointer_value.go">
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/08pointer_value.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/09methodset1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/10method3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/12embed_func2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/10结构与方法/13magic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
