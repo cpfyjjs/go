@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"math"
-	"sort"
 )
 
 type Square struct {
@@ -28,7 +27,6 @@ type Shaper interface {
 
 func main() {
 	var areaIntf Shaper
-	var s *Shaper
 
 	sq1 := new(Square)
 	sq1.side = 5
@@ -59,7 +57,7 @@ func main() {
 		fmt.Println("Un")
 
 	}
-	
+
 
 
 	//测试一个值是否实现某个接口
