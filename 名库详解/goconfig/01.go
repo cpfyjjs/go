@@ -54,7 +54,6 @@ func main() {
 	if ok{
 		fmt.Println("删除成功")
 	}
-
 	err = goconfig.SaveConfigFile(cfg,"conf_save.ini")
 	if err != nil{
 		fmt.Println(err)
