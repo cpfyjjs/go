@@ -47,18 +47,19 @@
     <session id="2006883489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="account" value="1" />
-          <entry key="go" value="110" />
+          <entry key="go" value="117" />
           <entry key="ini" value="13" />
           <entry key="sql" value="2" />
           <entry key="txt" value="15" />
@@ -67,21 +68,21 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="1" />
-          <entry key="Go" value="110" />
+          <entry key="Go" value="117" />
           <entry key="PLAIN_TEXT" value="28" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="15511" />
+          <entry key="go" value="17085" />
           <entry key="ini" value="167" />
           <entry key="txt" value="209" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="15511" />
+          <entry key="Go" value="17085" />
           <entry key="PLAIN_TEXT" value="376" />
         </counts>
       </usages-collector>
@@ -94,46 +95,57 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5077631">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/名库详解/goconfig/03.go">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-                  <folding>
-                    <element signature="e#14#110#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/名库详解/xorm/main.go">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-665">
-                  <caret line="82" selection-start-line="82" selection-end-line="82" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/名库详解/xorm/main.go">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="529">
-                  <caret line="169" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/08Map/01make_maps.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/08Map/02map_testelement.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/08Map/03maps_forange.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/08Map/04maps_forrange2.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning/08Map/sorted_map.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="e#14#39#0" expanded="true" />
+                <element signature="e#447#449#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -149,13 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learning/10结构与方法/method.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/07method_on_time.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/pointer_value.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/09methodset1.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/10method3.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/11embed_func1.go" />
-        <option value="$PROJECT_DIR$/learning/10结构与方法/12embed_func2.go" />
         <option value="$PROJECT_DIR$/learning/10结构与方法/magic.go" />
         <option value="$PROJECT_DIR$/learning/11接口/interfaces_poly.go" />
         <option value="$PROJECT_DIR$/learning/11接口/valueable.go" />
@@ -200,6 +205,13 @@
         <option value="$PROJECT_DIR$/名库详解/goconfig/02.go" />
         <option value="$PROJECT_DIR$/名库详解/xorm/models.go" />
         <option value="$PROJECT_DIR$/名库详解/xorm/main.go" />
+        <option value="$PROJECT_DIR$/名库详解/macaron/01.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/make_maps.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/02map_testelement.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/03maps_forange.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/maps_forrange2.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/04maps_forrange2.go" />
+        <option value="$PROJECT_DIR$/learning/08Map/sorted_map.go" />
       </list>
     </option>
   </component>
@@ -232,19 +244,13 @@
             <path>
               <item name="go" type="b2602c69:ProjectViewProjectNode" />
               <item name="go" type="462c0819:PsiDirectoryNode" />
-              <item name="名库详解" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go" type="b2602c69:ProjectViewProjectNode" />
               <item name="go" type="462c0819:PsiDirectoryNode" />
-              <item name="名库详解" type="462c0819:PsiDirectoryNode" />
-              <item name="goconfig" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go" type="462c0819:PsiDirectoryNode" />
-              <item name="名库详解" type="462c0819:PsiDirectoryNode" />
-              <item name="xorm" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="08Map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go" type="b2602c69:ProjectViewProjectNode" />
@@ -265,10 +271,10 @@
     <property name="database.console.LAST_STATE" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/go/src/goblog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -295,61 +301,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
-    <configuration name="go build 01pattern.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build sorted_map.go">
+    <configuration name="go build 02map_testelement.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/09包package/01pattern.go" />
+      <filePath value="$PROJECT_DIR$/learning/08Map/02map_testelement.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 04read_write_file1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 03maps_forange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/12读取数据/04read_write_file1.go" />
+      <filePath value="$PROJECT_DIR$/learning/08Map/03maps_forange.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 05read_field2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 04maps_forrange2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/12读取数据/05read_field2.go" />
+      <filePath value="$PROJECT_DIR$/learning/08Map/04maps_forrange2.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 06fileoutput.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build make_maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learning/12读取数据/06fileoutput.go" />
+      <filePath value="$PROJECT_DIR$/learning/08Map/make_maps.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build sorted_map.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/名库详解/xorm/main.go" />
+      <filePath value="$PROJECT_DIR$/learning/08Map/sorted_map.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 01pattern.go" />
-      <item itemvalue="Go Build.go build 04read_write_file1.go" />
-      <item itemvalue="Go Build.go build 05read_field2.go" />
-      <item itemvalue="Go Build.go build 06fileoutput.go" />
-      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build make_maps.go" />
+      <item itemvalue="Go Build.go build 02map_testelement.go" />
+      <item itemvalue="Go Build.go build 03maps_forange.go" />
+      <item itemvalue="Go Build.go build 04maps_forrange2.go" />
+      <item itemvalue="Go Build.go build sorted_map.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build 06fileoutput.go" />
-        <item itemvalue="Go Build.go build 05read_field2.go" />
-        <item itemvalue="Go Build.go build 04read_write_file1.go" />
-        <item itemvalue="Go Build.go build 01pattern.go" />
+        <item itemvalue="Go Build.go build sorted_map.go" />
+        <item itemvalue="Go Build.go build 04maps_forrange2.go" />
+        <item itemvalue="Go Build.go build 03maps_forange.go" />
+        <item itemvalue="Go Build.go build 02map_testelement.go" />
+        <item itemvalue="Go Build.go build make_maps.go" />
       </list>
     </recent_temporary>
   </component>
@@ -363,16 +369,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72929937" visible="true" weight="0.073027715" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72929937" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" sideWeight="0.27070063" side_tool="true" weight="0.14925373" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.869403" weight="0.13029316" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.869403" visible="true" weight="0.3724213" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,6 +386,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4978678" weight="0.26058632" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -425,48 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learning/11接口/11print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/11接口/12duck_dance.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/11接口/05sort.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/14协程与通道/01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/14协程与通道/02.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/14协程与通道/03.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning/14协程与通道/04.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -691,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/名库详解/xorm/models.go" />
     <entry file="file://$PROJECT_DIR$/03.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -710,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="e#14#110#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,6 +684,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="169" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/名库详解/macaron/01.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/08Map/01make_maps.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/08Map/02map_testelement.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/08Map/03maps_forange.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/08Map/04maps_forrange2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/08Map/sorted_map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+            <element signature="e#447#449#0" />
+          </folding>
         </state>
       </provider>
     </entry>
